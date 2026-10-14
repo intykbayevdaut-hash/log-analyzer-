@@ -1,0 +1,21 @@
+2026-10-14 09:01:12 INFO  Server started on port 8080
+2026-10-14 09:01:15 INFO  Connection from 192.168.1.10
+2026-10-14 09:02:03 DEBUG Cache warmed up in 120 ms
+2026-10-14 09:15:44 WARNING Slow response: 2300 ms for /api/users from 192.168.1.10
+2026-10-14 09:30:21 ERROR Database connection failed: timeout after 30 seconds
+2026-10-14 09:30:25 ERROR Database connection failed: timeout after 30 seconds
+2026-10-14 09:31:02 INFO  Connection from 10.0.0.5
+2026-10-14 10:05:10 ERROR File not found: /static/logo_42.png requested by 10.0.0.5
+2026-10-14 10:05:12 ERROR File not found: /static/logo_77.png requested by 10.0.0.5
+2026-10-14 10:20:30 WARNING Disk usage at 87 percent
+2026-10-14 10:45:00 INFO  Connection from 203.0.113.7
+2026-10-14 10:45:03 ERROR Login failed for user admin from 203.0.113.7
+2026-10-14 10:45:05 ERROR Login failed for user admin from 203.0.113.7
+2026-10-14 10:45:07 ERROR Login failed for user root from 203.0.113.7
+2026-10-14 11:10:19 CRITICAL Out of memory, restarting worker 3
+2026-10-14 11:10:22 INFO  Worker 3 restarted
+2026-10-14 11:30:00 INFO  Health check OK
+2026-10-14 11:59:59 DEBUG Cleanup finished, removed 15 temp files
+some random line without a level
+2026-10-14 12:05:41 ERROR Database connection failed: timeout after 45 seconds
+2026-10-14 12:10:00 INFO  Connection from 192.168.1.10
